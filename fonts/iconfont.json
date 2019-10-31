@@ -1,0 +1,44 @@
+{
+  "id": "1486521",
+  "name": "hxbx",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "827994",
+      "name": "账单",
+      "font_class": "type",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "2999960",
+      "name": "卡号",
+      "font_class": "worker",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "3461765",
+      "name": "礼品",
+      "font_class": "gift",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9836664",
+      "name": "金额",
+      "font_class": "money",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "10727634",
+      "name": "学制年限",
+      "font_class": "year",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    }
+  ]
+}
